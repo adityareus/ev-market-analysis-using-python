@@ -1,10 +1,12 @@
 # ev-market-analysis-using-python
 
+ANALYSIS OF EV ADOPTION OVER THE YEARS
 ![image](https://github.com/user-attachments/assets/d0a6ef32-496f-420d-99d6-af0c760f554b)
+**From the above bar chart, it’s clear that EV adoption has been increasing over time, especially noting a significant upward trend starting around 2016. The number of vehicles registered grows modestly up until that point and then begins to rise more rapidly from 2017 onwards. The year 2023 shows a particularly sharp increase in the number of registered EVs, with the bar for 2023 being the highest on the graph, indicating a peak in EV adoption.**
 
-From the above bar chart, it’s clear that EV adoption has been increasing over time, especially noting a significant upward trend starting around 2016. The number of vehicles registered grows modestly up until that point and then begins to rise more rapidly from 2017 onwards. The year 2023 shows a particularly sharp increase in the number of registered EVs, with the bar for 2023 being the highest on the graph, indicating a peak in EV adoption.
 
 ![image](https://github.com/user-attachments/assets/5c06b287-54e7-4b78-a12c-60e1e3a09850)
+**The above graph compares the number of electric vehicles registered in various cities within three counties: King, Snohomish, and Pierce. The horizontal bars represent cities, and their length corresponds to the number of vehicles registered, colour-coded by county**
 
 ![image](https://github.com/user-attachments/assets/511f4ed5-1226-4631-9378-a43d02f992a7)
 
